@@ -1,0 +1,12 @@
+
+fluff:     file format elf64-x86-64
+
+Contents of section .dynstr:
+ 4003c0 006c6962 666c7566 662e736f 005f5f67  .libfluff.so.__g
+ 4003d0 6d6f6e5f 73746172 745f5f00 7072696e  mon_start__.prin
+ 4003e0 745f6669 6c650070 776e6d65 005f696e  t_file.pwnme._in
+ 4003f0 6974005f 66696e69 006c6962 632e736f  it._fini.libc.so
+ 400400 2e36005f 5f6c6962 635f7374 6172745f  .6.__libc_start_
+ 400410 6d61696e 005f6564 61746100 5f5f6273  main._edata.__bs
+ 400420 735f7374 61727400 5f656e64 00474c49  s_start._end.GLI
+ 400430 42435f32 2e322e35 002e00             BC_2.2.5...     
